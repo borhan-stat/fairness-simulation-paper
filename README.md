@@ -10,7 +10,7 @@ All analyses were implemented in Google Colab, and the notebook is structured to
 
 **Contents**
 
-simulation\_notebook.ipynb
+fairness\_simulation.ipynb
 
 Primary notebook containing the complete workflow, including data generation, model fitting, and figure \& table generation.
 
@@ -20,11 +20,11 @@ Primary notebook containing the complete workflow, including data generation, mo
 
 Google Colab (Recommended Execution Environment)
 
-Open simulation\_notebook.ipynb in Google Colab.
+Open fairness\_simulation.ipynb in Google Colab.
 
 Select Runtime → Run all.
 
-Output files will be saved automatically
+Output files will be saved automatically.
 
 
 
