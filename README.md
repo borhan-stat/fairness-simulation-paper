@@ -1,8 +1,9 @@
-**Code Repository for “Artificial Intelligence from the Lens of Fairness”**
+**Code Repository for “A Designed look at Artificial Intelligence from the Lens of
+Fairness”**
 
 
 
-This repository contains the Python code used to reproduce the simulation study presented in the manuscript Artificial Intelligence from the Lens of Fairness.
+This repository contains the Python code used to reproduce the simulation study presented in the manuscript.
 
 All analyses were implemented in Google Colab, and the notebook is structured to run end-to-end in that environment without modification.
 
